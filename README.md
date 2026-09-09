@@ -583,6 +583,6 @@ Smart-Logistics/
 
 ---
 
-**Project Completed:** September 2026  
+**Project Completed:** August 2026  
 **Repository:** [Smart-Logistics](https://github.com/sahilrege9673/Smart-Logistics)  
 **Dataset:** 1,000 shipment records spanning full calendar year 2024
